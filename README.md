@@ -10,6 +10,9 @@ This project demonstrates the design and implementation of a secure, scalable, a
 - OSPF for dynamic routing between floors
 - DHCP for automatic IP assignment
 
+## Network Topology
+![Topology](ScreenShots/NetworkTopology.png)
+
 ## Departments & VLANs
 - Reception → VLAN 80 → 192.168.8.0/24  
 - Store → VLAN 70 → 192.168.7.0/24  
@@ -47,8 +50,7 @@ This project demonstrates the design and implementation of a secure, scalable, a
 ##  Project Files
 - Cisco Packet Tracer file (.pkt)
 - Project report (PDF)
-- Network topology screenshots
-- Configuration snapshots
+- Network topology screenshot
 
 ##  Learning Outcomes
 - Enterprise network design using hierarchical architecture
